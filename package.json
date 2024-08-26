@@ -1,0 +1,12 @@
+{
+  "name": "jest_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_practise.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
